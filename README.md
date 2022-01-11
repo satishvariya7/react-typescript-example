@@ -1,3 +1,7 @@
+# React Typescript Example 
+
+The goal of this project is to provide a set of simple samples about React with Typescript.
+
 ## To get started:
 
 1. Install [NodeJS](http://www.nodejs.org)
